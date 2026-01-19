@@ -1,0 +1,81 @@
+{
+  "policy": "SortedTaskBestFitPolicy",
+  "workloadFile": "tasks_5000_balanced.json",
+  "vmCount": 8,
+  "vms": [
+    {
+      "vmId": 0,
+      "avgCpuPercent": 55.8262950677629,
+      "peakCpuPercent": 75.53457991279508,
+      "avgRamPercent": 132.84514662896197,
+      "peakRamPercent": 185.6255846517937,
+      "taskCount": 625,
+      "ramSamples": 288374
+    },
+    {
+      "vmId": 1,
+      "avgCpuPercent": 55.49156840497116,
+      "peakCpuPercent": 77.25003640831723,
+      "avgRamPercent": 132.0793310374172,
+      "peakRamPercent": 185.1228763177538,
+      "taskCount": 625,
+      "ramSamples": 288374
+    },
+    {
+      "vmId": 2,
+      "avgCpuPercent": 56.30934657559137,
+      "peakCpuPercent": 75.25764065054452,
+      "avgRamPercent": 138.76404532765832,
+      "peakRamPercent": 186.70316278243752,
+      "taskCount": 625,
+      "ramSamples": 288374
+    },
+    {
+      "vmId": 3,
+      "avgCpuPercent": 55.54479014173776,
+      "peakCpuPercent": 75.86842467210214,
+      "avgRamPercent": 134.69309706220577,
+      "peakRamPercent": 194.36703504780644,
+      "taskCount": 625,
+      "ramSamples": 288374
+    },
+    {
+      "vmId": 4,
+      "avgCpuPercent": 55.40567784769815,
+      "peakCpuPercent": 75.02390037704919,
+      "avgRamPercent": 138.72672394230048,
+      "peakRamPercent": 194.5193246472766,
+      "taskCount": 625,
+      "ramSamples": 288374
+    },
+    {
+      "vmId": 5,
+      "avgCpuPercent": 56.03434172708006,
+      "peakCpuPercent": 77.9858234610301,
+      "avgRamPercent": 134.6749488916041,
+      "peakRamPercent": 191.02987506008293,
+      "taskCount": 625,
+      "ramSamples": 288374
+    },
+    {
+      "vmId": 6,
+      "avgCpuPercent": 55.872613722376116,
+      "peakCpuPercent": 76.13621325985673,
+      "avgRamPercent": 138.36292945770435,
+      "peakRamPercent": 188.42210871810016,
+      "taskCount": 625,
+      "ramSamples": 288374
+    },
+    {
+      "vmId": 7,
+      "avgCpuPercent": 56.560308275214446,
+      "peakCpuPercent": 74.721490521445,
+      "avgRamPercent": 140.7417955224615,
+      "peakRamPercent": 188.94251373074061,
+      "taskCount": 625,
+      "ramSamples": 288374
+    }
+  ],
+  "avgClusterCpuPercent": 55.880617720303995,
+  "avgClusterRamPercent": 136.3610022337892
+}
